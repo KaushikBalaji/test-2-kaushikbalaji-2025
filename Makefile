@@ -1,7 +1,6 @@
 # Makefile for Student Management System
 
 objects=grade.o menu.o student.o utils.o
-headers=menu.h grade.h utils.h student.h
 
 Main: main.o ${objects}
 	gcc main.o ${objects} -o Main
