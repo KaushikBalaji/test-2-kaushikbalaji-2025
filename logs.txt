@@ -1,0 +1,110 @@
+  996  ls
+  997  git init
+  998  cd ..
+  999  clean
+ 1000  git clone https://github.com/vivekc29-art/test-2.git
+ 1001  mv test-2 test-2-kaushikbalaji
+ 1002  ls
+ 1003  cd test-2-kaushikbalaji/
+ 1004  ls
+ 1005  ls -all
+ 1006  git status
+ 1007  git init
+ 1008  ls
+ 1009  ls -all
+ 1010  git add .
+ 1011  git status
+ 1012  git commit -m "Test 2 first commit"
+ 1013  git branch
+ 1014  git branch -M main
+ 1015  git remote add origin https://github.com/KaushikBalaji/test-2-kaushikbalaji-2025.git
+ 1016  git push -u origin main
+ 1017  ls
+ 1018  gedit Makefile .
+ 1019  gedit .
+ 1020  gcc -c main.c 
+ 1021  ls
+ 1022  gcc -o main.o 
+ 1023  make clean
+ 1024  make
+ 1025  make clean
+ 1026  make
+ 1027  make clean
+ 1028  make
+ 1029  gcc -c main.c 
+ 1030  gcc -c grade.c
+ 1031  gcc -c main.c grade.c student.c menu.c utils.c
+ 1032  ls
+ 1033  make clean
+ 1034  ls
+ 1035  make
+ 1036  ls
+ 1037  make clean
+ 1038  make
+ 1039  ls
+ 1040  gcc -o main.o
+ 1041  make clean
+ 1042  make
+ 1043  make clean
+ 1044  make
+ 1045  gcc main.o -o main
+ 1046  ls
+ 1047  make clean
+ 1048  make
+ 1049  ls
+ 1050  make clean
+ 1051  make
+ 1052  make clean
+ 1053  make
+ 1054  make clean
+ 1055  make
+ 1056  ls
+ 1057  make clean
+ 1058  ls
+ 1059  make
+ 1060  make clean
+ 1061  make
+ 1062  la
+ 1063  ls
+ 1064  ./Main 
+ 1065  ls
+ 1066  ls -all
+ 1067  git status
+ 1068  git add Makefile
+ 1069  git commit -m "Makefile updated"
+ 1070  git push
+ 1071  history | tail 100
+ 1072  history | tail --100
+ 1073  history | tail --lines=100
+ 1074  history | tail --lines=100 > logs.txt
+ 1075  cat logs.txt 
+ 1076  make clean
+ 1077  make
+ 1078  make clean
+ 1079  make
+ 1080  make clean
+ 1081  make
+ 1082  make clean
+ 1083  make
+ 1084  ./Main 
+ 1085  make clean
+ 1086  make
+ 1087  make clean
+ 1088  make
+ 1089  git status
+ 1090  git add Makefile 
+ 1091  git commit -m "Makefile updated"
+ 1092  git status
+ 1093  git push
+ 1094  make clean
+ 1095  make
+ 1096  history | tail --100
+ 1097  history | tail --lines=100>logs
+ 1098  cat logs
+ 1099  gedit logs
+ 1100  make clean
+ 1101  history | tail --lines=120>logs.txt
+ 1102  cat logs.txt 
+ 1103  history | tail --lines=105>logs.txt
+ 1104  cat logs.txt 
+ 1105  history | tail --lines=110>logs.txt
